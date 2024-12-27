@@ -1,6 +1,6 @@
 				@font-face {
 					font-family: 'uni';
-					src: url('./160930015629UNI.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/160930015629UNI.woff') format('woff');
 					  font-display: auto;
 				}
 
@@ -8,7 +8,7 @@
 
 						@font-face {
 					font-family: 'uni-sans-wei';
-					src: url('./160930020959uni-sans-wei.woff') format('woff');
+					src: url('/wp-content/uploads/useanyfont/160930020959uni-sans-wei.woff') format('woff');
 					  font-display: auto;
 				}
 
